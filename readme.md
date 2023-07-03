@@ -5,5 +5,5 @@
 - 📫 How to reach me: 
   - [Linkedin](https://www.linkedin.com/in/bymaer)
   - Telegram username: @bymaer
-  - 
+  
 - My newsreader app: [https://apps.apple.com/us/app/euroradio/id6450743865](url)
