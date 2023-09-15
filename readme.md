@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Artyom</a> :wave:
-<h3 align="center">iOS Developer, ex-journalist. From Belarus. Currently in Spain</h3>
+<h3 align="center">iOS Developer, ex-journalist. From Belarus</h3>
 - :raised_hands: I’m looking for a job as an iOS developer.
   
 - 📫 How to reach me: 
